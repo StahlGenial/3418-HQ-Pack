@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/pearl_util",
+  "textures": {
+    "layer0": "minecraft:item/ender_eye"
+  }
+}

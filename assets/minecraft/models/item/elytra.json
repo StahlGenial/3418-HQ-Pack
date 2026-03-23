@@ -1,0 +1,14 @@
+{
+    "parent": "item/smaller_util",
+    "textures": {
+        "layer0": "item/elytra"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "broken": 1
+            },
+            "model": "item/broken_elytra"
+        }
+    ]
+}
