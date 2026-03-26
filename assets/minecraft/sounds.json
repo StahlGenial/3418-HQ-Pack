@@ -1,0 +1,22 @@
+{
+  "entity.creeper.primed": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "3418/po",
+        "volume": 1.0,
+        "pitch": 2.0
+      }
+    ]
+  },
+  "entity.generic.explode": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "3418/pr",
+        "volume": 1.0,
+        "pitch": 1.5
+      }
+    ]
+  }
+}
